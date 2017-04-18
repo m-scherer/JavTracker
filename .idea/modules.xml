@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavTracker.iml" filepath="$PROJECT_DIR$/.idea/modules/JavTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavTracker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavTracker_main.iml" group="JavTracker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavTracker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavTracker_test.iml" group="JavTracker" />
     </modules>
   </component>
 </project>
